@@ -1,0 +1,40 @@
+body{
+			font-family: 'Comic Neue', cursive;
+			text-align: right;
+			border:2px solid black ;
+		}
+		.id{
+			background-color: yellow;
+			text-align: left;
+			border:2px solid black ;
+		}
+		#id{
+			float: left;
+		margin-left: 91.5%;
+		}
+		.id+div{
+			border:2px solid black ;
+		}
+		#class{
+			float: left;
+			text-align: left;
+			border:2px solid black ;
+			width: 86%;
+		}
+		.class{
+			display: block;
+			font-style: italic;
+		}
+		
+		span+div{
+			width: 28px;
+			float: left;
+		}
+		#H{
+			margin-left: 33%;
+			text-align: right;
+			border:2px solid black ;
+			width: 30%;
+			margin-top: 26px;
+		}
+

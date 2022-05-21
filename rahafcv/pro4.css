@@ -1,0 +1,9 @@
+
+.a, #b > div{ margin: 2em; }
+.a .d{ text-decoration: underline; }
+#b{ width: 50%; border: 2px dashed black; }
+div > .c
+{ background-color: cyan; }
+ #b div{ background-color: white; }
+div div
+{ text-align: right; padding-right: 4em; border: 2px dashed black; }
